@@ -25,16 +25,27 @@ Guided Grad-CAM provides a finer-grained, more detailed version of Grad-CAM usin
 
 ### 3. TCAV (Testing with Concept Activation Vectors)
 
-TCAV explains model predictions using **human-understandable concepts**, rather than individual pixels.
+TCAV explains model predictions based on human-interpretable **concepts**, enabling us to answer:  
+*"How sensitive is this model to the concept of stripes when identifying zebras?"*
 
 - 📓 Notebook: [`notebooks/tcav.ipynb`](notebooks/tcav.ipynb)
-- 🖼️ Concept Images:
-  - Striped: [`data/tcav_concepts/striped/`](data/tcav_concepts/striped/)
-  - Zigzag: [`data/tcav_concepts/zigzag/`](data/tcav_concepts/zigzag/)
-  - Dotted: [`data/tcav_concepts/dotted/`](data/tcav_concepts/dotted/)
-- 🎲 Random Control Sets:
-  - [`data/tcav_concepts/random_sets/random_1/`](data/tcav_concepts/random_sets/random_1/)
-  - [`random_2/`, `random_3/`] are also included as control comparisons.
 
-This setup hdelps quantify how sensitive the model is to concepts like "striped" versus unrelated image clusters.
+#### 🧠 Concept Images:
+Located in [`data/tcav_concepts/concepts/`](data/tcav_concepts/concepts/):
+- 🟦 **Striped** – [`striped/`](data/tcav_concepts/concepts/striped/)
+- 🟧 **Zigzag** – [`zigzag/`](data/tcav_concepts/concepts/zigzag/)
+- 🟨 **Dotted** – [`dotted/`](data/tcav_concepts/concepts/dotted/)
 
+#### 🎲 Random Control Sets:
+Located in [`data/tcav_concepts/random_sets/`](data/tcav_concepts/random_sets/):
+- [`random_1/`](data/tcav_concepts/random_sets/random_1/)
+- [`random_2/`](data/tcav_concepts/random_sets/random_2/)
+- [`random_3/`](data/tcav_concepts/random_sets/random_3/)
+
+These are used as neutral controls to contrast with the meaningful concepts.
+
+#### 🦓 Target Class Images:
+Located in [`data/tcav_concepts/target_class/zebra/`](data/tcav_concepts/target_class/zebra/):
+- Contains sample **zebra images** used as the target class for TCAV sensitivity analysis.
+
+---
