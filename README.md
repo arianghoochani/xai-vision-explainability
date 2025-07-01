@@ -36,8 +36,5 @@ TCAV explains model predictions using **human-understandable concepts**, rather 
   - [`data/tcav_concepts/random_sets/random_1/`](data/tcav_concepts/random_sets/random_1/)
   - [`random_2/`, `random_3/`] are also included as control comparisons.
 
-This setup helps quantify how sensitive the model is to concepts like "striped" versus unrelated image clusters.
+This setup hdelps quantify how sensitive the model is to concepts like "striped" versus unrelated image clusters.
 
----
-
-Let me know if you want to auto-generate this structure using a Python script or need help zipping/uploading data in GitHub.
