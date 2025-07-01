@@ -1,0 +1,17 @@
+# Core scientific and plotting libraries
+numpy>=1.20
+matplotlib==3.3.4
+Pillow>=8.0
+scipy>=1.6
+
+# PyTorch and related
+torch>=2.0.0
+torchvision>=0.15
+
+# Explainability tools
+captum>=0.6.0
+
+# Web support (if needed for future visualization)
+Flask-Compress
+
+# (Standard libraries like os, sys, json are built-in and don't need to be listed)
