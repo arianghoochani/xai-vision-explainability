@@ -56,3 +56,11 @@ Located in [`data/tcav_concepts/target_class/zebra/`](data/tcav_concepts/target_
 - Contains sample **zebra images** used as the target class for TCAV sensitivity analysis.
 
 ---
+## 🖥️ Installation
+
+Clone the repo and install dependencies:
+
+```bash
+git clone https://github.com/yourusername/xai-vision-explainability.git
+cd xai-vision-explainability
+pip install -r requirements.txt
