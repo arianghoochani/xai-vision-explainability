@@ -1,5 +1,12 @@
-# xai-vision-explainability
-Explainable AI in Vision: Grad-CAM, Guided Grad-CAM, and TCAV implementations with slides from a University of Vienna talk.
+# 🧠 Demystifying the Unknown: From Black-box Models to Human-Understandable Insights
+
+This repository contains implementations of three Explainable AI (XAI) methods—**Grad-CAM**, **Guided Grad-CAM**, and **TCAV**—developed as part of a talk on **Applied Machine Learning** at the **University of Vienna**.
+
+The project includes both **Jupyter notebooks** and **modular Python scripts**, organized under the `notebooks/` and `src/` folders, respectively.
+
+---
+
+## 📂 Repository Structure
 
 ## 🔍 Methods and Corresponding Resources
 
