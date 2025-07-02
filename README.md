@@ -1,4 +1,4 @@
-# 🧠 Demystifying the Unknown: From Black-box Models to Human-Understandable Insights
+#  Demystifying the Unknown: From Black-box predictions  into Human-Understandable Insights
 
 This repository contains implementations of three Explainable AI (XAI) methods—**Grad-CAM**, **Guided Grad-CAM**, and **TCAV**—developed as part of a talk on **Applied Machine Learning** at the **University of Vienna**.
 
