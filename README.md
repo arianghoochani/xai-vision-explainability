@@ -64,3 +64,15 @@ Clone the repo and install dependencies:
 git clone https://github.com/yourusername/xai-vision-explainability.git
 cd xai-vision-explainability
 pip install -r requirements.txt
+
+## Dataset Attributions
+
+### Random Images Dataset  
+- **Source:** ezzzio, *Random Images Dataset* ([Kaggle](https://www.kaggle.com/datasets/ezzzio/random-images))  
+- **License:** GPL‑2.0 (GNU General Public License v2)  
+- **Usage:** Internal use and model training permitted. Redistribution of derived data or code requires GPL‑2.0 compliance.
+
+### Donkeys, Horses, Zebra Images Dataset  
+- **Source:** ifeanyinneji, *Donkeys, Horses, Zebra Images Dataset* ([Kaggle](https://www.kaggle.com/datasets/ifeanyinneji/donkeys-horses-zebra-images-dataset))  
+- **License:** **Unknown** — not specified on Kaggle.  
+  - ⚠️ **Action needed:** Contact the author or omit redistribution if no permission is granted.
