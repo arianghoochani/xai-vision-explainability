@@ -39,9 +39,9 @@ TCAV explains model predictions based on human-interpretable **concepts**, enabl
 
 #### 🧠 Concept Images:
 Located in [`data/tcav_concepts/`](data/tcav_concepts/):
-- 🟦 **Striped** – [`data/tcav_concepts/striped/`](data/tcav_concepts/striped/)
-- 🟧 **Zigzag** – [`data/tcav_concepts/zigzagged/`](data/tcav_concepts/zigzagged/)
-- 🟨 **Dotted** – [`data/tcav_concepts/dotted/`](data/tcav_concepts/dotted/)
+- 🟦 **Striped** – [`striped/`](data/tcav_concepts/striped/)
+- 🟧 **Zigzag** – [`zigzagged/`](data/tcav_concepts/zigzagged/)
+- 🟨 **Dotted** – [`dotted/`](data/tcav_concepts/dotted/)
 
 #### 🎲 Random Control Sets:
 Located in [`data/tcav_concepts/`](data/tcav_concepts/):
