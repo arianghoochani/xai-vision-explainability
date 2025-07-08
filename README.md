@@ -24,7 +24,7 @@ Grad-CAM (Gradient-weighted Class Activation Mapping) highlights important regio
 
 Guided Grad-CAM provides a finer-grained, more detailed version of Grad-CAM using guided backpropagation.
 
-- 📓 Notebook: [`notebooks/guided_gradـcam.ipynb`](notebooks/guided_gradcam.ipynb)
+- 📓 Notebook: [`notebooks/guidedـgradـcam.ipynb`](notebooks/guided_gradcam.ipynb)
 - 🖼️ Input Images: [`data/guided_gradcam_images/`](data/guided_gradcam_images/)
 - Uses similar animal images to show enhanced pixel-level saliency.
 
