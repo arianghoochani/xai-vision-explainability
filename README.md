@@ -38,7 +38,7 @@ TCAV explains model predictions based on human-interpretable **concepts**, enabl
 - 📓 Notebook: [`notebooks/tcav.ipynb`](notebooks/tcav.ipynb)
 
 #### 🧠 Concept Images:
-Located in [`data/tcav_concepts/concepts/`](data/tcav_concepts/concepts/):
+Located in [`data/tcav_concepts/`](data/tcav_concepts/):
 - 🟦 **Striped** – [`striped/`](data/tcav_concepts/concepts/striped/)
 - 🟧 **Zigzag** – [`zigzag/`](data/tcav_concepts/concepts/zigzag/)
 - 🟨 **Dotted** – [`dotted/`](data/tcav_concepts/concepts/dotted/)
