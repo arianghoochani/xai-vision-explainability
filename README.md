@@ -67,10 +67,11 @@ pip install -r requirements.txt
 ```
 ## 📒 Installation (for Notebook Users)
 If you're using Jupyter notebooks or Google Colab, you can directly install the dependencies using:
-## Dataset Attributions
 ```bash
 !pip install torch torchvision captum matplotlib==3.3.4
 ```
+## Dataset Attributions
+
 ### Random Images Dataset  
 - **Source:** ezzzio, *Random Images Dataset* ([Kaggle](https://www.kaggle.com/datasets/ezzzio/random-images))  
 - **License:** GPL‑2.0 (GNU General Public License v2)  
