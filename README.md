@@ -44,10 +44,10 @@ Located in [`data/tcav_concepts/`](data/tcav_concepts/):
 - 🟨 **Dotted** – [`data/tcav_concepts/dotted/`](data/tcav_concepts/dotted/)
 
 #### 🎲 Random Control Sets:
-Located in [`data/tcav_concepts/random_sets/`](data/tcav_concepts/random_sets/):
-- [`random_1/`](data/tcav_concepts/random_sets/random_1/)
-- [`random_2/`](data/tcav_concepts/random_sets/random_2/)
-- [`random_3/`](data/tcav_concepts/random_sets/random_3/)
+Located in [`data/tcav_concepts/`](data/tcav_concepts/):
+- [`random_1/`](data/tcav_concepts/random_1/)
+- [`random_2/`](data/tcav_concepts/random_2/)
+- [`random_3/`](data/tcav_concepts/random_3/)
 
 These are used as neutral controls to contrast with the meaningful concepts.
 
